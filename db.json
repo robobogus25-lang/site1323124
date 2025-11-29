@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Tenmi",
       "sirname": "Paster",
-      "photo_url": "https://w7.pngwing.com/pngs/993/618/png-transparent-money-money-logo-grass-product-thumbnail.png",
+      "photo_url": "https://surl.li/aroxhy",
       "balance": 888888
     },
         {
       "id": 2,
       "name": "Left",
       "sirname": "Code",
-      "photo_url": "https://w7.pngwing.com/pngs/993/618/png-transparent-money-money-logo-grass-product-thumbnail.png",
+      "photo_url": "https://surl.li/aroxhy",
       "balance": 234234
     }
   ],
@@ -23,7 +23,7 @@
       "description": "permanent invitee",
       "price": 18,
       "author_id": 1,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
       "description": "permanent invitee",
       "price": 20,
       "author_id": 2,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "description": "permanent invitee",
       "price": 18,
       "author_id": 2,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     },
     {
       "id": 4,
@@ -47,7 +47,7 @@
       "description": "permanent invitee",
       "price": 18,
       "author_id": 1,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     },
     {
       "id": 5,
@@ -55,7 +55,7 @@
       "description": "permanent invitee",
       "price": 18,
       "author_id": 1,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
       "description": "permanent invitee",
       "price": 18,
       "author_id": 1,
-      "photo_url": "https://project-seo.net/wp-content/uploads/2019/12/invajt.jpg"
+      "photo_url": "https://surl.lt/zjukxu"
     }
   ]
 }
